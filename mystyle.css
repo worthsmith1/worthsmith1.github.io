@@ -1,5 +1,12 @@
+* {
+  font-family: Verdana;
+}
+
 body {
   background-color: white;
+}
+p {
+  color: black;
 }
 
 h1 {

@@ -21,6 +21,32 @@
       <p>Welcome to <em>worthsmith1</em>, a privately owned website that has no current purpose. It is in the making, so stay tuned and watch for new updates, and hopefully one day, a new purpose.</p>
       
     </main>
+  <!--UNIMPORTANT-->
+      <h2>DelftStack learning</h2>
+      <h3>JavaScript comment box example</h3>
+      <form id="myForm">
+      Full name: <input id="userName" type="text" name="fname">
+      <br><br>
+      Email : <input id="userEmail" type="text" name="email">
+      <br><br>
+      <textarea id ="userComment" rows="4" cols="50" name="comment"> Enter comment here...</textarea>
+      <br><br>
+      <input type="button" onclick="myFunction()" value="Submit">
+      </form>
+      <h5>Submitted data :</h5>
+      <p id="data"></p>
+      <script>
+      function myFunction(){
+      let data = "";  let name = document.getElementById("userName").value
+      let email = document.getElementById("userEmail").value
+      let comment = document.getElementById("userComment").value
+       
+      data = "User name : "+name+"<br/>User email : "+email+ "<br/>User comment : "+comment
+       
+      document.getElementById("data").innerHTML = data  // display data to paragraph
+      }
+      </script>
+<!--UNIMPORTANT-->
 
     <footer>
       <p>Interested in viewing my repository? Click <a href="https://github.com/worthsmith1/worthsmith1.github.io">here</a> </p>

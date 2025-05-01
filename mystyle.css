@@ -16,5 +16,6 @@ a:hover {
 
 h1{
   text-align: center;
+  margin: auto
   border: solid 3px black;
 }

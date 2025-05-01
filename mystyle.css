@@ -5,11 +5,14 @@
 body {
   background-color: white;
 }
-p,
-  h1 {
+p {
   color: black;
 }
 
 a:hover {
   color: red;
+}
+
+h1{
+  text-align: center;
 }

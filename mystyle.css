@@ -10,7 +10,7 @@ p {
 }
 
 a:hover {
-  background-image: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwonderfulengineering.com%2Fwp-content%2Fuploads%2F2014%2F04%2Fcode-wallpaper-4.png&f=1&nofb=1&ipt=e84fde1e02c988da630b6623e31d96a459537a76a9d56dbd52b55712d9f95247;
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwonderfulengineering.com%2Fwp-content%2Fuploads%2F2014%2F04%2Fcode-wallpaper-4.png&f=1&nofb=1&ipt=e84fde1e02c988da630b6623e31d96a459537a76a9d56dbd52b55712d9f95247);
   color: red;
 }
 

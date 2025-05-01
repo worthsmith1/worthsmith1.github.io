@@ -1,3 +1,4 @@
+
 // Select elements
 const commentText = document.getElementById(‘comment-text‘);
 const submitBtn = document.getElementById(‘submit‘);

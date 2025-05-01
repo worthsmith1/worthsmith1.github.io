@@ -12,3 +12,7 @@ p {
 h1 {
   color: black;
 }
+
+a:hover {
+  background-color: red);
+}

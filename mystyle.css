@@ -5,6 +5,7 @@
 body {
   background-color: white;
 }
+
 p {
   color: black;
 }
@@ -16,4 +17,10 @@ a:hover {
 
 h1{
   text-align: center;
+  border: solid 3px white;
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+  border-radius: 15px
 }

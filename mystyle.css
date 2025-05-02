@@ -52,9 +52,12 @@ a:active {
   background-color: transparent;
 }
 
-.pages a:hover {
+.pages {
   position: static;
-  top: 50px;
+  top: 500px;
+}
+
+.pages a:hover {
   background: black;
   border: 1px solid black;
   border-radius: 5px;

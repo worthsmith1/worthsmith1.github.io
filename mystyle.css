@@ -41,6 +41,7 @@ p {
 
 nav { 
   text-align: center;
+  display: inline-block;
 }
 
 a:visited {

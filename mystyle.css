@@ -3,6 +3,19 @@
   box-sizing: border-box;
 }
 
+header {
+  text-align: center;
+  background: white;
+  border: 1px solid black;
+  color: black;
+  border-radius: 5px;
+  color: black;
+  display: inline-block;
+  margin: 5px;
+  padding: 5px;
+  text-decoration: none;
+}
+
 h1 {
   margin: 10px;
 }

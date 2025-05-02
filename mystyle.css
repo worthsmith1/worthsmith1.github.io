@@ -27,11 +27,6 @@ nav {
   text-align: center;
 }
 
-a:link {
-  color: blue;
-  background-color: transparent;
-}
-
 a:visited {
   color: blue;
   background-color: transparent;

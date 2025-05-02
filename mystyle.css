@@ -40,8 +40,8 @@ p {
 }
 
 nav { 
-  text-align: center;
   display: inline-block;
+  text-align: center;
 }
 
 a:visited {

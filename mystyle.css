@@ -12,7 +12,7 @@ header {
   border-radius: 5px;
   color: black;
   display: inline-block;
-  margin: 5px;
+  margin: 25px 25px 25px 25px;
   padding: 2px;
   text-decoration: none;
   width: 100%;
@@ -82,7 +82,7 @@ a:active {
   border-radius: 5px;
   color: black;
   display: inline-block;
-  margin: 25px 25px 25px 25px;
+  margin-top: 5px 10px;
   padding: 5px;
   text-decoration: none;
 }

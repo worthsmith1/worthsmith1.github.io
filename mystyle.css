@@ -6,14 +6,17 @@
 header {
   text-align: center;
   background: white;
-  border: 1px solid black;
+  border: 2px solid black;
   color: black;
   border-radius: 5px;
   color: black;
   display: inline-block;
   margin: 5px;
-  padding: 5px;
+  padding: 2px;
   text-decoration: none;
+  position: fixed;
+  top: 0px;
+  left: 0px;
 }
 
 h1 {

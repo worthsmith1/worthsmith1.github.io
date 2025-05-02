@@ -12,12 +12,11 @@ h2{
 }
 
 .worthsmith1 {
+  float: center;
   text-align: center;
   position: fixed;
   top: 0px;
   left: 0px;
-  margin-left: auto;
-  margin-right: auto;
   border:2px black solid; 
   font-size:42px; 
   border-radius: 15px;

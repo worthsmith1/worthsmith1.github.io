@@ -12,12 +12,10 @@ h2{
 }
 
 .worthsmith1 {
-  display: block;
   text-align: center;
   border:2px black solid; 
   font-size:42px; 
   border-radius: 15px;
-  position: fixed;
 }
 
 h3{

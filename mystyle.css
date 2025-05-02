@@ -6,13 +6,6 @@
 header {
   position: fixed;
   text-align: center;
-  top: 0px;
-  left: 0px;
-}
-
-h1 {
-  box-align: center;
-  margin: 10px;
   background: white;
   border: 2px solid black;
   color: black;
@@ -22,6 +15,12 @@ h1 {
   margin: 5px;
   padding: 2px;
   text-decoration: none;
+  top: 0px;
+  left: 50%;
+}
+
+h1 {
+  margin: 10px;
 }
 
 h2{

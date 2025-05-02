@@ -15,8 +15,7 @@ header {
   margin: 5px;
   padding: 2px;
   text-decoration: none;
-  top: 0px;
-  left: 50%;
+  width: 100%;
 }
 
 h1 {

@@ -10,14 +10,30 @@ p {
   color: black;
 }
 
-a:hover {
-  color: purple;
-}
-
 h1 {
   text-align: center;
 }
 
 nav { 
   text-align: center;
+}
+
+a:link {
+  color: blue;
+  background-color: transparent;
+}
+
+a:visited {
+  color: blue;
+  background-color: transparent;
+}
+
+a:hover {
+  color: purple;
+  background-color: transparent;
+}
+
+a:active {
+  color: blue;
+  background-color: transparent;
 }

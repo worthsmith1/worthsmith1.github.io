@@ -42,10 +42,10 @@ a:active {
   background-color: transparent;
 }
 
-.pages a: hover {
+.pages a:hover {
   background: black;
   border: 1px solid black;
-  border-radius: 3px;
+  border-radius: 5px;
   color: white;
   display: inline-block;
   margin: 10px;
@@ -55,5 +55,5 @@ a:active {
 
 .pages a {
   background: white;
-  border: 1px solid black;
+  border: 5px solid black;
   color: black;

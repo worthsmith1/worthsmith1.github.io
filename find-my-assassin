@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="icon" type="image/png" href="<!-- This is where to put the image -->"/> <title>worthsmith1</title>
+    <link rel="stylesheet" href="mystyle.css">
+  </head>
+  <body>
+    
+    <main>
+      
+  <header> 
+    <h1><strong>Find My Assassin</strong></span></h1>
+  </header>
+
+  <br>
+  <div id="navigation">
+   <nav class="pages">
+      <a href="./shop">Home</a>
+      <a href="./more">New Page!</a>
+    </nav>
+  </div>
+    <h2>Hello!</h2>
+      
+    <p>Looking for the right assassin? We've got you covered. Take a look at our wide variety of assassins!</p>
+    <p>Our assassins are trained from birth, and given their first knife at three! We hope you know that our assassins are the best in the country. </p>
+      
+    </main>
+
+    <footer>
+      <p>Interested in viewing my repository? Click <a href ="https://github.com/worthsmith1/worthsmith1.github.io" target="_blank" >here</a> </p>
+    </footer>
+    
+  </body>
+</html>

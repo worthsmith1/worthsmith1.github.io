@@ -79,6 +79,19 @@ a:active {
   text-decoration: none;
 }
 
+link-box {
+  background: white;
+  border: 1px solid black;
+  color: black;
+  border-radius: 5px;
+  color: black;
+  width: 300px;
+  height: 100px;
+  display: inline-block;
+  padding: 5px;
+  height:100%;width:100%
+}
+
 #navigation {
   margin-top: 60px;
 }

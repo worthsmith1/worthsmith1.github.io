@@ -15,25 +15,12 @@ header {
   width: 100%;
 }
 
-h1 {
-  margin: 10px;
-}
-
-h2{
-  margin: 10px;
-}
-
-h3{
-  margin:10px
-}
-
 body {
   background-color: white;
 }
 
 p {
   color: black;
-  margin: 15px;
 }
 
 nav { 
@@ -66,7 +53,6 @@ a:active {
   border-radius: 5px;
   color: white;
   display: inline-block;
-  margin-top: 10px 10px;
   padding: 5px;
   text-decoration: none;
 }
@@ -78,7 +64,6 @@ a:active {
   border-radius: 5px;
   color: black;
   display: inline-block;
-  margin-top: 10px 10px;
   padding: 5px;
   text-decoration: none;
 }
@@ -115,8 +100,4 @@ a:active {
   display: flex;
   float: left;
   width: 33.33%; 
-}
-
-#navigation {
-  margin-top: 60px;
 }

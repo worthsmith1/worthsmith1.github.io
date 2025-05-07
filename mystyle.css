@@ -84,10 +84,10 @@ a:active {
   display: flex;
   float: left;
   width: 33%; 
-  margin-top:1px;
-  margin-bottom:1px;
-  margin-left:1px;
-  margin-right:1px;
+  margin-top:2px;
+  margin-bottom:2px;
+  margin-left:2px;
+  margin-right:2px;
 }
 
 .linkbox a {
@@ -103,8 +103,8 @@ a:active {
   display: flex;
   float: left;
   width: 33%; 
-  margin-top:1px;
-  margin-bottom:1px;
-  margin-left:1px;
-  margin-right:1px;
+  margin-top:2px;
+  margin-bottom:2px;
+  margin-left:2px;
+  margin-right:2px;
 }

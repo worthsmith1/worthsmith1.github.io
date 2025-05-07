@@ -23,6 +23,10 @@ p {
   color: black;
 }
 
+nav{
+  top: 500px;
+}
+
 a:visited {
   color: blue;
   background-color: transparent;

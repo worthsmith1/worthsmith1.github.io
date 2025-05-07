@@ -21,10 +21,6 @@ p {
   color: black;
 }
 
-nav{
-  top: 1000px;
-}
-
 a:visited {
   color: blue;
   background-color: transparent;
@@ -42,7 +38,7 @@ a:active {
 
 .pages {
   position: static;
-  top: 200px;
+  top: 500px;
   text-align: center;
 }
 

@@ -70,11 +70,6 @@ a:active {
 .linkbox {
   position: static;
   top: 500px;
-  margin-top:1px;
-  margin-bottom:1px;
-  margin-left:1px;
-  margin-right:1px;
-  width: 33%; 
 }
 
 .linkbox a:hover {
@@ -88,6 +83,11 @@ a:active {
   height: 300px;
   display: flex;
   float: left;
+  width: 33%; 
+  margin-top:1px;
+  margin-bottom:1px;
+  margin-left:1px;
+  margin-right:1px;
 }
 
 .linkbox a {
@@ -102,4 +102,9 @@ a:active {
   height: 300px;
   display: flex;
   float: left;
+  width: 33%; 
+  margin-top:1px;
+  margin-bottom:1px;
+  margin-left:1px;
+  margin-right:1px;
 }

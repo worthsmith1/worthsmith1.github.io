@@ -1,8 +1,6 @@
 * {
   font-family: "Monaco";
   box-sizing: border-box;
-  margin-left:1%;
-  margin-right:1%;
 }
 
 header {
@@ -84,6 +82,8 @@ a:active {
   width: 33.33%; 
   margin-top:1%;
   margin-bottom:1%;
+  margin-left:1%;
+  margin-right:1%;
 }
 
 .linkbox a {
@@ -101,4 +101,6 @@ a:active {
   width: 33.33%;
   margin-top:1%;
   margin-bottom:1%;
+  margin-left:1%;
+  margin-right:1%;
 }

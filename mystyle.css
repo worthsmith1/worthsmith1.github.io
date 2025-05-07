@@ -91,13 +91,12 @@ a:active {
   color: white;
   display: inline-block;
   margin-top: 10px 10px;
-  padding: 5px;
+  padding: 50px; 
   text-decoration: none;
   height: 300px;
   display: flex;
   float: left;
   width: 33.33%; 
-  padding: 50px; 
 }
 
 .linkbox a {
@@ -108,13 +107,12 @@ a:active {
   color: black;
   display: inline-block;
   margin-top: 10px 10px;
-  padding: 5px;
+  padding: 50px; 
   text-decoration: none;
   height: 300px;
   display: flex;
   float: left;
   width: 33.33%; 
-  padding: 50px; 
 }
 
 #navigation {
